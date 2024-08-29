@@ -1,7 +1,4 @@
-# Seidu's Data Analytics Portfolio
-
-
-# [Project 1: Road Accident Data Analysis - Python](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-road-accident-data-analysis)
+# [Project 1: Road Accident Data Analysis - Power BI](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-road-accident-data-analysis)
   ## Requirements
      Client wants to create dashboard for road aciddents from 2021 - 2022 
   1. Primary KPI - total casualties & total accident values for latest year and YoY growth
@@ -12,8 +9,16 @@
   6. Latest year road casualties by location and time(day/night)
   7. Total casualties and total accident by location
 
-# Data Analysis Projects Snapshots
-
+#### Project Description
+Data Analysis of road accidents dataset from 2021 - 2022 
+---
+Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-road-accident-data-analysis)
+---
+---
+![Completed Project Dashboard](road_accident_data_analysis-final.JPG)
+---
+---
+  
 # 1. Sales Data Analysis With Excel Using Pivot Tables And Advanced Formulas
 
 #### Project Description 
@@ -32,50 +37,4 @@ Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/m
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts2.JPG)
----
-
-# 3. Road Accidents Data Analysis With Power BI 
-#### Project Description
-Data Analysis of road accidents dataset from 2021 - 2022 
----
-Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-road-accident-data-analysis)
----
----
-![Completed Project Dashboard](road_accident_data_analysis-final.JPG)
----
----
-# 4. Python, Machine Learning Data Analysis Project
-#### Project Description
-Simple Linear Regression model that seeks to advice investors on which growing startups to invest in
----
-Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/python_startups_investment_advisor_model)
----
-![First 5 data](summary.JPG)
----
-![Summary Statistics](summary.JPG)
----
-![Visualization](chart.JPG)
----
-
-# 5. Child Labour Data  Analysis with Python
-#### Project Description
-Pushing to github soon
----
-[Completed Project Dashboard](sales-data-excel.soon)
----
-
-# 6. Cricket Data Analysis Python, Pandas, Power BI
-
-### Project Description
-Pushing to github soon
----
-[Completed Project Dashboard](sales-data-excel.soon)
----
-
-# 7. Product Recommendation Analysis with Python
-
-#### Project Description
-Pushing to github soon
----
-[Completed Project Dashboard](sales-data-excel.soon)
 ---
