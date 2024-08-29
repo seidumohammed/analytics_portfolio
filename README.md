@@ -32,7 +32,7 @@ Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/m
 
 #### Project Link and Images
 
-Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-dynami-data-analysis-dashboard)
+Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-dynamic-data-analysis-dashboard)
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
 ---
